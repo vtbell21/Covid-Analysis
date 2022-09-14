@@ -3,4 +3,6 @@ In this project I created a data analysis and visualization for COVID-19 infecti
 
 Here is the dashboard I created in Tableau to visualize this data:
 
+https://public.tableau.com/app/profile/vincent.taylor.bell/viz/CovidDashboard_16631247357280/Dashboard1?publish=yes
+
 ![Dashboard 1](https://user-images.githubusercontent.com/56656419/190057977-e8698bb8-e2d2-4937-9d0f-3d723cb2f960.png)
